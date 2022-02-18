@@ -33,9 +33,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Kell-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Kell-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Kell-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Kell-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-  
+  <img align="right" alt="Kell-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Q4c5c0REJkEAAAAC/shoujo-nozaki.gif">
+
   ##
  
 <div> 
